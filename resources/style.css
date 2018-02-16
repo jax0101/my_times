@@ -22,3 +22,35 @@ nav {
 a {
   color: black;
 }
+.containers {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  width: 1232px;
+
+
+}
+.one {
+  display: flex;
+  flex-direction: column;
+  margin-left: 32px;
+  color: black;
+  width: 630px;
+  border: solid black;
+}
+.two {
+  display: flex;
+  flex-direction: column;
+  color: black;
+  width: 300px;
+  border: solid black;
+  margin: 25px;
+
+}
+Three {
+  display: flex;
+  flex-direction: column;
+  color: black;
+  width: 240px;
+  border: solid black;
+}
